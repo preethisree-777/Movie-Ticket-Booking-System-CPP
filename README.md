@@ -4,7 +4,7 @@
 
 Designed and implemented a console-based **Movie Ticket Booking System** using **C++** with Object-Oriented Programming principles, Linked Lists, STL, and File Handling.
 
-The project started as a basic implementation in **C** to understand the workflow of a movie ticket booking system. After learning **Object-Oriented Programming (OOP)** and **Data Structures**, the project was redesigned and enhanced in **C++** with a modular multi-file architecture.
+The project was initially developed in C to understand the fundamentals of a movie ticket booking system. It was later redesigned and enhanced in C++ by applying Object-Oriented Programming principles and Data Structures to create a more modular and maintainable application.
 
 The application allows customers to book, search, update, and cancel movie tickets, while administrators can manage bookings and generate reports.
 

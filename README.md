@@ -24,7 +24,6 @@ This project simulates a movie ticket booking process by providing a simple cons
 - Applied File Handling to store and retrieve booking data.
 - Developed separate Customer and Admin modules.
 
----
 
 ## Technologies Used
 
@@ -36,7 +35,6 @@ This project simulates a movie ticket booking process by providing a simple cons
 - Visual Studio Code
 - g++ Compiler
 
----
 
 ## Key Features
 
@@ -57,7 +55,6 @@ This project simulates a movie ticket booking process by providing a simple cons
 - Booking Statistics
 - Save and Load Booking Data
 
----
 
 ## Results
 
@@ -67,7 +64,6 @@ This project simulates a movie ticket booking process by providing a simple cons
 - Modular multi-file C++ project structure.
 - Separate Admin and Customer functionalities implemented.
 
----
 
 ## Learning Outcome
 
@@ -80,7 +76,6 @@ This project helped me gain practical experience in:
 - Dynamic Memory Allocation
 - Debugging and modular software design
 
----
 
 ## Future Improvements
 
@@ -90,11 +85,10 @@ This project helped me gain practical experience in:
 - User authentication
 - Multiple theatre management
 
----
 
 ## Author
 
-**Preethi Sree**
+Preethi Sree
 
 B.Tech – Electronics and Communication Engineering
 

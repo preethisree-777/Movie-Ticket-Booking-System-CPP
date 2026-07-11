@@ -58,6 +58,11 @@ This project simulates a movie ticket booking process by providing a simple cons
 
 ## Results
 
+Successfully developed a modular console-based Movie Ticket Booking System in C++ with Customer and Admin modules.
+
+Implemented dynamic booking management using Linked Lists and persistent storage using File Handling.
+
+Applied Object-Oriented Programming concepts to organize the application into multiple reusable classes.
 - Successfully implemented a menu-driven movie ticket booking system.
 - Booking records are managed using Linked Lists.
 - Booking information is stored using File Handling.
@@ -67,23 +72,22 @@ This project simulates a movie ticket booking process by providing a simple cons
 
 ## Learning Outcome
 
-This project helped me gain practical experience in:
+Through this project I strengthened my understanding of:
 
-- Object-Oriented Programming using C++
-- Linked List implementation
-- File Handling
-- Multi-file C++ project development
-- Dynamic Memory Allocation
-- Debugging and modular software design
+• Object-Oriented Programming using C++
+• Linked List implementation
+• File Handling
+• Modular software design
+• Multi-file C++ project development
+• Debugging and problem-solving
 
 
 ## Future Improvements
 
-- GUI-based application
-- Database integration
-- Online payment support
-- User authentication
-- Multiple theatre management
+-GUI Application
+-Database Integration
+-Online Payment
+-Multiple Theatre Support
 
 
 ## Author
